@@ -26,5 +26,5 @@
     "include": [
         "test",
         "wdio.conf.ts"
-    ]
+, "src/_tests_/Projects.e2e.js"    ]
 }
